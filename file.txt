@@ -1,3 +1,4 @@
 file created
 Added features
 bugfix
+fialized features added
